@@ -1,0 +1,66 @@
+.navbar 
+{
+	background-color: gray;
+	line-height:1.2em;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -42px;
+}
+.navbar-header
+{
+	height:1.2em;
+}
+.navbar-brand {
+  padding-top: 25px;
+}
+.navbar-brand h1 { /* Restaurant name */
+  font-family: 'Oxygen', serif;
+  color: white;
+  font-size: 1.5em;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .15;
+  text-align: left;
+}
+#header-nav {
+  border-radius: 0;
+  border: 0;
+}
+
+#nav-list {
+	
+  color: black;
+  text-align: center;
+}
+.text-center {
+	font-weight: bold;
+}
+.container .jumbotron {
+ /* box-shadow: 0 0 50px #3F0C1F; */
+  height: 1000px;
+  background-color: blue;
+  opacity: .4;
+    border-radius: 0;
+  border: 0;
+}
+.jumboHeader{
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 14px;
+	color:white;
+}
+.jumbobody {
+	text-align: center;
+	font-size: 12px;
+	color:white;
+	font-family: 'Oxygen', sans-serif;
+}
